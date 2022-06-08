@@ -1,0 +1,38 @@
+.image {
+    width: 60px;
+    padding: 5px;
+}
+
+.Sparkles {
+    width: 35px;
+    height: 35px;
+    display: inline;
+}
+
+h3 {
+    font-family: cursive;
+    color: rgb(76, 76, 76);
+    margin-top: 0px;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+}
+
+.col {
+    border: dotted 1px rgba(0, 0, 0, 0.288);
+    margin: 1px;
+
+}
+
+.question {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 1%;
+
+}
+
+
+
